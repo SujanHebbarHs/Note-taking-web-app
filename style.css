@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #afacac;
+}
+h1{
+  text-align: center;
+}
+#align{
+  text-align: center;
+}
+
+#display{
+  margin:auto;
+  margin-top: 30px;
+  padding:10px;
+  height:450px;
+  width:600px;
+  border:solid black 2px;
+  background-color: #fde2e8;
+  color:black;
+}
